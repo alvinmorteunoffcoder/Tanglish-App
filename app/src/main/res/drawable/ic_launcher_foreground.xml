@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Keyboard Body -->
+    <path
+        android:fillColor="#4585F4"
+        android:pathData="M20,32 h68 a6,6 0 0,1 6,6 v32 a6,6 0 0,1 -6,6 h-68 a6,6 0 0,1 -6,-6 v-32 a6,6 0 0,1 6,-6 z" />
+    
+    <!-- White Keyboard Key matrix details centered inside the 66dp zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,40h6v6h-6z M36,40h6v6h-6z M46,40h6v6h-6z M56,40h6v6h-6z M66,40h6v6h-6z M76,40h6v6h-6z M26,50h6v6h-6z M36,50h6v6h-6z M46,50h6v6h-6z M56,50h6v6h-6z M66,50h6v6h-6z M76,50h6v6h-6z M34,60h40v6h-40z" />
+    
+    <!-- Floating Speech bubble signifying voice typing -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M66,16h22a4,4 0 0,1 4,4v12a4,4 0 0,1 -4,4h-10l-6,6v-6h-6a4,4 0 0,1 -4,-4v-12a4,4 0 0,1 4,-4z" />
+    
+    <!-- Wave lines inside the Speech Bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,23h10v2h-10z M73,28h6v2h-6z" />
+</vector>
